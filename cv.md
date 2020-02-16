@@ -11,3 +11,7 @@ Belarusian State University
 # Major:
 Chemistry faculty
 2014 year graduation
+# Other languages I studied in descending order of experience:
+* Belarussian
+* Russian
+* English
