@@ -1,1 +1,1 @@
-https://dimonchegluck.github.io/rsschool-cv/
+https://dimonchegluck.github.io/rsschool-cv/cv
