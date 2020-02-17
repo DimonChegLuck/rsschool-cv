@@ -1,0 +1,87 @@
+body {
+    font-size: 20px;
+    user-select: none;
+}
+.wrapper {
+    width: 1024px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+b {
+    font-weight: bold;
+}
+
+.my-photo {
+    border-radius: 40px;
+	
+}
+
+
+.main-content {
+    width: 81vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.main-content-part {
+    padding: 20px;
+    margin: 10px;
+    background-color: yellow
+}
+
+
+.main-content-part:first-of-type {
+    margin: 0 10px 10px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.main-content-part:last-of-type {
+    margin: 10px 10px 0 10px;
+}
+
+.aside-navigation-list-elem>a {
+    text-decoration: none;
+    color: black;
+}
+
+.aside-navigation-list-elem>a:hover {
+    color: white;
+    background-color: black;
+}
+
+.main-content-part h1 {
+    padding-left: 15px;
+    font-size: 24px;
+    margin: 10px 0;
+    color: white;
+    background-color: green;
+}
+
+.main-content-part a {
+    text-decoration: none;
+}
+
+.main-content-part a:hover {
+    text-decoration: underline;
+}
+
+.main-content-part ul {
+    font-size: 22px;
+    margin: 15px 0;
+}
+
+.main-content-part ul li {
+    font-size: 20px;
+    margin: 5px 0 5px 15px;
+}
+
+.main-content-part p {
+    margin: 10px 0;
+}
